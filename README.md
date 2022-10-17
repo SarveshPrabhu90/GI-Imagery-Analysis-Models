@@ -1,5 +1,21 @@
 # GI-Imagery-Analysis-Models
 
+## Kvasir
+A Multi-Class Image-Dataset for Computer Aided Gastrointestinal Disease Detection
+
+## HyperKvasir Dataset 	
+Data is collected from various patients of Bærum Hospital, Norway
+Partly labeled by experienced gastroenterologists 
+Reviewed with the practitioners at Alpharetta for further refinement
+1m total images (336 x 336 pixels),  374 videos at 6fps
+4.74m images are also available but not used in the research 
+
+## Governance & Permissible use 	
+The hospital’s IT fully anonymized the data
+Compliant with the Norwegian Privacy Data Protection Authority & GDPR
+Hospital assured proper distribution of samples and bias removal 
+Data is not pre-processed or augmented
+Data collection did not interfere with the care of the patient
 
 
 ## Image Labels
