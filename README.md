@@ -19,6 +19,16 @@ The pictures are then analyzed for areas of interest, what I call biomarkers. Th
 
 Parva is a ground 0 solution, and has implementations even from today in the form of screenings.
 
+## Parva Capsula - Engineering Presentations 
+**Research Conclusion Demonstration to the HPCC Platform Research & Development Team**  
+https://www.youtube.com/watch?v=WT43b-554Oo 
+
+**RSG Engineering Conference - Poster Board Best Use Case Award - October 10, 2022**
+https://wiki.hpccsystems.com/display/hpcc/Sarvesh+Prabhu+-+2022+Poster+Contest+Resources
+
+**RSG Engineering Conference - Presentation - October 10, 2022**
+https://www.youtube.com/watch?v=CBen8VGPpXI
+
 ## Kvasir
 A Multi-Class Image-Dataset for Computer Aided Gastrointestinal Disease Detection
 
@@ -35,7 +45,6 @@ Compliant with the Norwegian Privacy Data Protection Authority & GDPR
 Hospital assured proper distribution of samples and bias removal 
 Data is not pre-processed or augmented
 Data collection did not interfere with the care of the patient
-
 
 ## Image Labels
 Hyper-Kvasir includes the follow image labels for the labeled part of the dataset:
