@@ -1,0 +1,47 @@
+[0718/161412.723:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+[0718/161412.723:ERROR:cache_util.cc(140)] Unable to move cache folder GPUCache to old_GPUCache_000
+[0718/161412.723:ERROR:disk_cache.cc(168)] Unable to create cache
+[0718/161412.723:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+[0718/161415.985:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0718/161415.987:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0718/161416.957:INFO:CONSOLE(2)] "lang.hitch: scope["_buildCSV"] is null (scope="[Widget GraphsWUWidget, stub]")", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0718/162345.362:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+[0718/162345.362:ERROR:cache_util.cc(140)] Unable to move cache folder GPUCache to old_GPUCache_000
+[0718/162345.362:ERROR:disk_cache.cc(168)] Unable to create cache
+[0718/162345.362:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+[0718/162346.298:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0718/162752.911:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0718/181943.636:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0718/181943.906:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0718/181944.602:INFO:CONSOLE(2)] "lang.hitch: scope["_buildCSV"] is null (scope="[Widget GraphsWUWidget, stub]")", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0718/182120.347:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0718/182126.795:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0718/182127.791:INFO:CONSOLE(2)] "lang.hitch: scope["_buildCSV"] is null (scope="[Widget ResultsWidget, stub_Results-DL]")", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0718/212146.300:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0718/212149.453:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0718/212150.451:INFO:CONSOLE(2)] "lang.hitch: scope["_buildCSV"] is null (scope="[Widget ResultsWidget, stub_Results-DL]")", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0719/015309.240:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0719/015309.275:INFO:CONSOLE(2)] "Unknown cell type:  [object Object]", source: http://20.81.116.113:8010/esp/files/dist/6621.eclwatch.js (2)
+[0719/015309.275:INFO:CONSOLE(2)] "Unknown cell type:  [object Array]", source: http://20.81.116.113:8010/esp/files/dist/6621.eclwatch.js (2)
+[0719/015309.276:INFO:CONSOLE(2)] "Unknown cell type:  [object Object]", source: http://20.81.116.113:8010/esp/files/dist/6621.eclwatch.js (2)
+[0719/015309.276:INFO:CONSOLE(2)] "Unknown cell type:  [object Array]", source: http://20.81.116.113:8010/esp/files/dist/6621.eclwatch.js (2)
+[0719/015309.276:INFO:CONSOLE(2)] "Unknown cell type:  [object Object]", source: http://20.81.116.113:8010/esp/files/dist/6621.eclwatch.js (2)
+[0719/015309.276:INFO:CONSOLE(2)] "Unknown cell type:  [object Array]", source: http://20.81.116.113:8010/esp/files/dist/6621.eclwatch.js (2)
+[0719/015309.276:INFO:CONSOLE(2)] "Unknown cell type:  [object Object]", source: http://20.81.116.113:8010/esp/files/dist/6621.eclwatch.js (2)
+[0719/015309.276:INFO:CONSOLE(2)] "Unknown cell type:  [object Array]", source: http://20.81.116.113:8010/esp/files/dist/6621.eclwatch.js (2)
+[0719/015309.276:INFO:CONSOLE(2)] "Unknown cell type:  [object Object]", source: http://20.81.116.113:8010/esp/files/dist/6621.eclwatch.js (2)
+[0719/015309.276:INFO:CONSOLE(2)] "Unknown cell type:  [object Array]", source: http://20.81.116.113:8010/esp/files/dist/6621.eclwatch.js (2)
+[0719/015314.203:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0719/084942.883:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0719/085027.906:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0719/085028.903:INFO:CONSOLE(2)] "lang.hitch: scope["_buildCSV"] is null (scope="[Widget SourceFilesWidget, stub_Files-DL]")", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0719/085039.636:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0719/085040.634:INFO:CONSOLE(2)] "lang.hitch: scope["_buildCSV"] is null (scope="[Widget SourceFilesWidget, stub_Files-DL]")", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0719/085148.409:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0719/085148.639:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0719/085149.366:INFO:CONSOLE(2)] "lang.hitch: scope["_buildCSV"] is null (scope="[Widget GraphsWUWidget, stub]")", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0719/085150.202:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0719/085151.195:INFO:CONSOLE(2)] "lang.hitch: scope["_buildCSV"] is null (scope="[Widget GraphsWUWidget, stub_Graphs-DL]")", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0719/085214.297:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0719/085215.293:INFO:CONSOLE(2)] "lang.hitch: scope["_buildCSV"] is null (scope="[Widget VariablesWidget, stub_Variables-DL]")", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
+[0719/092028.001:INFO:CONSOLE(2)] "Observable store detected, but no sort order specified. You may experience quirks when adding/updating items.  These can be resolved by setting a sort order on the list or grid.", source: http://20.81.116.113:8010/esp/files/dist/stub.eclwatch.js (2)
