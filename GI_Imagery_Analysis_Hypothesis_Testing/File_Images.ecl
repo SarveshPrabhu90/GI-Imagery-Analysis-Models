@@ -1,0 +1,18 @@
+﻿EXPORT File_Images := MODULE
+EXPORT MLImg :=  RECORD
+  UNSIGNED8 ImageIDl;
+  UNSIGNED8 videoID;
+  UNSIGNED6 frameID;
+  STRING finding_category;
+  STRING finding_class;
+  UNSIGNED3 x1;
+  UNSIGNED3 y1;
+  UNSIGNED3 x2;
+  UNSIGNED3 y2;
+  UNSIGNED3 x3;
+  UNSIGNED3 y3;
+  UNSIGNED3 x4;
+  UNSIGNED3 y4; 
+END;
+EXPORT MLImagesDS := DATASET('~CLASS::IMG::META::Train',MLImg,THOR);
+END;
