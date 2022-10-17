@@ -55,6 +55,13 @@ Hyper-Kvasir includes the follow image labels for the labeled part of the datase
 | 10 | normal-z-line | 22 |  ulcerative-colitis-grade-3
 | 11 | oesophagitis-a |  |  |
 
+## Parva Research Conclusion - The Verdict 
+The research concludes that ensembling the GNN and multi-layered Random Forest yields the highest accuracy and consistent results.
+
+The ensembling yields 99.8% precision and 100% recall, enabling the practitioner to make an informed treatment decision using a non-invasive smart pill for the patient in need of urgent care. 
+
+I sincerely thank my mentor Mr. Bob Foreman, Mr. Roger Dev, and my manager Ms. Lorraine Chapman for being such fantastic help through my HPCC journey. Without them, I would not have had the opportunity to give back to the practitioners and hospitals saving tomorrow’s lives today. Thank you! 
+
 ## Cite
 If you use this dataset in your research, Please cite the following paper:
 
