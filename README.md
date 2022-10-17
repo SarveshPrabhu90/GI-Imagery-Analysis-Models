@@ -1,4 +1,23 @@
-# GI-Imagery-Analysis-Models
+# Parva Capsula: GI Medical Imagery Analysis
+
+Imagine a patient admitted to the emergency at 1 am with a detrimental stomachache. 
+
+It takes several hours of diagnosis before the patient gets to see a GI doctor in the operating room, and the last thing the patient wants is to stick a probe with a camera from the rear when he is already in chronic pain.
+
+The actual treatment begins after the GI doc diagnoses the problem. According to American Gastroenterology Association, it takes up to 14 hours for the GI doc to share the diagnosis. Meanwhile, in most cases, all the patient receives only pain medication. 
+
+For the patient, this is elongated pain.
+The GI doc had to wake up in the middle of the night to commute to the hospital for an emergency colonoscopy.
+For the insurance carrier, it costs money the longer the patient stays in the hospital.
+For the hospital, it’s prime real estate. 
+ 
+**My solution is Parva, a swallowable smart pill**. The pill contains a camera and communicates to a smartphone via Bluetooth. The patient takes it as soon as they walk into the emergency. 
+
+The pill takes pictures and videos at 6fps as it travels through the upper and lower GI tract and communicates with the smartphone as it travels through the body. 
+ 
+The pictures are then analyzed for areas of interest, what I call biomarkers. The research empowers practitioners to reach a faster conclusion for patient treatment, by several hours in advance, compared to a traditional colonoscopy, all while being non-invasive; from an emergency, surgical perspective.
+
+Parva is a ground 0 solution, and has implementations even from today in the form of screenings.
 
 ## Kvasir
 A Multi-Class Image-Dataset for Computer Aided Gastrointestinal Disease Detection
