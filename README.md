@@ -21,13 +21,17 @@ Parva is a ground 0 solution, and has implementations even from today in the for
 
 ## Parva Capsula - Engineering Presentations 
 **Research Conclusion Demonstration to the HPCC Platform Research & Development Team**  
+
 https://www.youtube.com/watch?v=WT43b-554Oo 
 
 **RSG Engineering Conference - Poster Board Best Use Case Award - October 10, 2022**
+
 https://wiki.hpccsystems.com/display/hpcc/Sarvesh+Prabhu+-+2022+Poster+Contest+Resources
 
 **RSG Engineering Conference - Presentation - October 10, 2022**
+
 https://www.youtube.com/watch?v=CBen8VGPpXI
+
 
 ## Kvasir
 A Multi-Class Image-Dataset for Computer Aided Gastrointestinal Disease Detection
